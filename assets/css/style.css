@@ -1,0 +1,105 @@
+* {box-sizing: border-box;}
+body {
+    font-family: arial, sans-serif;
+}
+nav {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 8px;
+}
+a {
+    font-size: 13px;
+    padding: 5px;
+    color: black;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
+.title {
+    margin-top: 55px;
+    margin-left: 38px;
+    color: red;
+    font-size: 20px;
+}
+.formEdit {
+    text-align: center;
+    margin-top: 30px;
+}
+.searchInput {
+    text-align: left;
+    padding-left: 20px;
+    font-size: 16px;
+    border-radius: 50px;
+    height: 44px;
+    width: 42%;
+    border: 1.2px solid lightgrey;
+}
+.searchButton {
+    border: none;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    border: 1.2px solid transparent;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+.searchButton:hover {
+    border: 1.2px solid lightgrey;
+}
+.tenPx {
+    margin-right: 10px;
+}
+img {
+    margin-top: 12%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.formEditAdv {
+    text-align: left;
+    margin-left: 38px;
+
+}
+.btn_aln {
+    text-align: right;
+    margin-right: 38px;
+
+}
+.btn {
+    border: none;
+    border-radius: 3px;
+    border: 1.2px solid transparent;
+    background-color: rgb(76, 142, 253);
+    color: white;
+    padding: 10px 15px;
+}
+.btn:hover {
+    border: solid rgb(15, 99, 244) 1.2px;
+}
+.alignForm {
+    margin-left: 38px;
+    margin-top: 55px;
+}
+.inputBoxes {
+    height: 24px;
+    width: 60%;
+    padding-left: 7px;
+    border: solid lightgrey 1.2px;
+    margin-right: 38px;
+}
+label {
+    font-size: 15px;
+}
+.labeled {
+    display: flex;
+    justify-content: space-between;
+}
