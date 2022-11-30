@@ -1,6 +1,7 @@
 # Google Search Project
 This is a project to mimic the functionality of the pages of Google Search, Google Search Images and Google Advanced Search using HTML.
 
+![alt text](assets/images/googleSearchProject.png)
 ## Deployment
 
 - The website was deployed on a the Github Pages website.
